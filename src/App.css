@@ -1,0 +1,8 @@
+.App {
+   padding: 2rem 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background: rgb(84, 149, 182);
+   background: linear-gradient(90deg, rgba(84, 149, 182, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
